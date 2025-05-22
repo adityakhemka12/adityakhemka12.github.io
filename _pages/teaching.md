@@ -32,7 +32,7 @@ giscus_comments: true
             I roughly <strong>doubled</strong> the potential audience of COMP 541's final project simulator (speeds up build time from several minutes to seconds) by porting, along with a classmate, the original version (Windows-only) to Java (cross-platform). It is in-use in COMP 541 and maintained by me.
           </div>
           <div class="col-sm-3">
-            <a href="/projects/mips-emulator">MIPS Emulator</a>&nbsp;(<a href="https://github.com/madiali/mips-emulator">GitHub</a>)
+            
           </div>
         </div>
       </li>
@@ -61,7 +61,7 @@ giscus_comments: true
             I developed and maintain a SAP (Simple-As-Possible computer) program simulator, which allowed me to create a SAP programming assignment.
           </div>
           <div class="col-sm-3">
-            <a href="/projects/sapsim">SAPsim</a>&nbsp;(<a href="https://github.com/jesse-wei/SAPsim">GitHub</a>)
+            
           </div>
         </div>
       </li>
