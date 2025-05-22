@@ -5,11 +5,11 @@ permalink: /
 subtitle: PhD Candidate, University of Oxford
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Park End St., OX1 1HP</p>
+    <p>Park End Street, Oxford OX1 1HP</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD Candidate in Finance at Saïd Business School, University of Oxford. I am interested in inequality, climate change, market macro-structure, financial intermediation and regulation.
+I am a fifth-year PhD Candidate in Finance at Saïd Business School, University of Oxford. I am interested in inequality, climate change, market macro-structure, financial intermediation and regulation.
