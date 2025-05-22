@@ -46,7 +46,7 @@
   {% endif %}
 
   <!-- Entry bib key -->
-  <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
+  <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-7{% else %}col-sm-9{% endif %}">
     <!-- Title -->
     <div class="title">{{ entry.title }}</div>
     <!-- Author -->
@@ -187,17 +187,17 @@
 
     <!-- Links/Buttons -->
     <div class="links">
+
       {% if entry.award %}
         <a class="award btn btn-sm z-depth-0" role="button">
-          {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
+          Presentations
         </a>
       {% endif %}
+
       {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       {% endif %}
-      {%- if entry.presentations -%}
-      <a class="presentations btn btn-sm z-depth-0" role="button">Presentations</a>
-      {%- endif -%}
+
       {% if entry.doi %}
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
       {% endif %}
@@ -353,13 +353,6 @@
       <!-- Hidden abstract block -->
       <div class="abstract hidden">
         <p>{{ entry.abstract }}</p>
-      </div>
-    {% endif %}
-
-    {% if entry.presentations %}
-      <!-- Hidden presentations block -->
-      <div class="presentations hidden">
-        <p>{{ entry.presentations | markdownify }}</p>
       </div>
     {% endif %}
 
