@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "I am a graduate TA for COMP 311 and was a UTA for COMP 311, 210, and 110. I am one of two awardees of the 2023 Diane Pozefsky Learning Assistant Award ($1000 prize).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
