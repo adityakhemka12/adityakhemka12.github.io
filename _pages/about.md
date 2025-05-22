@@ -26,6 +26,6 @@ latest_posts:
 
 I am a fifth-year PhD Candidate in Finance at Saïd Business School, University of Oxford. I work in macro-finance, and am interested in inequality, climate change, market macro-structure, financial intermediation and regulation.
 
-I will be spending Summer 2025 as a PhD intern with the Macrofinancial Risks Division, Bank of England. 
+I will be spending Summer 2025 as a PhD intern with the Macrofinancial Risks Division at the Bank of England. 
 
 I received an MSc in Financial Economics from Oxford in 2019 and a BSc in Economics and Finance from Ashoka University, India in 2018. Previously, I worked in the Investment Banking Division at Goldman Sachs. 
