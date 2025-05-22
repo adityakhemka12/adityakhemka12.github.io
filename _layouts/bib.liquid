@@ -195,6 +195,9 @@
       {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       {% endif %}
+      {% if entry.presentations %}
+        <a class="presentations btn btn-sm z-depth-0" role="button">Presentations</a>
+      {% endif %}
       {% if entry.doi %}
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
       {% endif %}
@@ -350,6 +353,13 @@
       <!-- Hidden abstract block -->
       <div class="abstract hidden">
         <p>{{ entry.abstract }}</p>
+      </div>
+    {% endif %}
+
+    {% if entry.presentations %}
+      <!-- Hidden presentations block -->
+      <div class="presentations hidden">
+        <p>{{ entry.presentations }}</p>
       </div>
     {% endif %}
 
