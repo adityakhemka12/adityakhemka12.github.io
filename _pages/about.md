@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate in Finance, Saïd Business School, University of Oxford
+subtitle: PhD Candidate, University of Oxford
 
 profile:
   align: right
