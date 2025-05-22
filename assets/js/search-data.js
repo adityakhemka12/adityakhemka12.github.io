@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "I am a graduate TA for COMP 311 and was a UTA for COMP 311, 210, and 110. I am one of two awardees of the 2023 Diane Pozefsky Learning Assistant Award ($1000 prize).",
