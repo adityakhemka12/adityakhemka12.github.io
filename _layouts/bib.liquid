@@ -195,9 +195,16 @@
       {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       {% endif %}
-      {% if entry.presentations %}
-        <a class="presentations btn btn-sm z-depth-0" role="button">Presentations</a>
-      {% endif %}
+      {%- if entry.presentations -%}
+      {#–-- the pill –--#}
+      <a class="btn btn-sm z-depth-0"
+       data-toggle="collapse"          <!-- Bootstrap 4 attribute -->
+       href="#pres-{{ entry.key }}"    <!-- points at the box below -->
+       role="button"
+       aria-expanded="false">
+        Presentations
+      </a>
+      {%- endif -%}
       {% if entry.doi %}
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
       {% endif %}
@@ -356,12 +363,12 @@
       </div>
     {% endif %}
 
-    {% if entry.presentations %}
-      <!-- Hidden presentations block -->
-      <div class="presentations hidden">
-        <p>{{ entry.presentations }}</p>
-      </div>
-    {% endif %}
+    {%- if entry.presentations -%}
+        {#–-- the hidden box –--#}
+        <div id="pres-{{ entry.key }}" class="collapse mt-2">
+          {{ entry.presentations | markdownify }}
+        </div>
+      {%- endif -%}
 
     {% if entry.bibtex_show %}
       <!-- Hidden bibtex block -->
