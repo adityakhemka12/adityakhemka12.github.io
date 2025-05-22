@@ -46,7 +46,7 @@
   {% endif %}
 
   <!-- Entry bib key -->
-  <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-5{% else %}col-sm-7{% endif %}">
+  <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
     <div class="title">{{ entry.title }}</div>
     <!-- Author -->
@@ -196,13 +196,7 @@
         <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       {% endif %}
       {%- if entry.presentations -%}
-      <a class="btn btn-sm z-depth-0"
-       data-toggle="collapse"          <!-- Bootstrap 4 attribute -->
-       href="#pres-{{ entry.key }}"    <!-- points at the box below -->
-       role="button"
-       aria-expanded="false">
-        Presentations
-      </a>
+      <a class="presentations btn btn-sm z-depth-0" role="button">Presentations</a>
       {%- endif -%}
       {% if entry.doi %}
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
@@ -362,11 +356,12 @@
       </div>
     {% endif %}
 
-    {%- if entry.presentations -%}
-        <div id="pres-{{ entry.key }}" class="collapse mt-2">
-          {{ entry.presentations | markdownify }}
-        </div>
-      {%- endif -%}
+    {% if entry.presentations %}
+      <!-- Hidden presentations block -->
+      <div class="presentations hidden">
+        <p>{{ entry.presentations | markdownify }}</p>
+      </div>
+    {% endif %}
 
     {% if entry.bibtex_show %}
       <!-- Hidden bibtex block -->
