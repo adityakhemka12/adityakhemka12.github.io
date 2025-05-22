@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "I am a graduate TA for COMP 311 and was a UTA for COMP 311, 210, and 110. I am one of two awardees of the 2023 Diane Pozefsky Learning Assistant Award ($1000 prize).",
+          description: "At Oxford, I have taught across Undergraduate, Masters, MBA and Diploma Programs. I am part of Stanford University&#39;s Bing Overseas Study Program at Oxford.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
