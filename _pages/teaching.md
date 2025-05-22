@@ -20,11 +20,7 @@ giscus_comments: false
         <h6 class="card-subtitle font-italic">Core Course, Masters in Financial Economics</h6>
         <h7 class="card-subtitle">Teaching Assistant (2023, 2024)</h7>
       </div>
-      <div class="col-sm-2 text-sm-right">
-        <span class="badge">
-          541
-        </span>
-      </div>
+      
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">
@@ -50,11 +46,6 @@ giscus_comments: false
         <h6 class="card-subtitle font-italic">Elective Course, Masters in Financial Economics</h6>
         <h7 class="card-subtitle">Teaching Assistant (2023, 2024)</h7>
       </div>
-      <div class="col-sm-2 text-sm-right">
-        <span class="badge">
-          541
-        </span>
-      </div>
     </div>         
           </div>
         </div>
@@ -68,11 +59,7 @@ giscus_comments: false
         <h6 class="card-subtitle font-italic">Elective Course, Masters in Financial Economics</h6>
         <h7 class="card-subtitle">Teaching Assistant (2023, 2024)</h7>
       </div>
-      <div class="col-sm-2 text-sm-right">
-        <span class="badge">
-          541
-        </span>
-      </div>
+      
     </div>         
           </div>
         </div>
@@ -87,11 +74,7 @@ giscus_comments: false
         <h6 class="card-subtitle font-italic">Stanford-Oxford Bing Overseas Studies Program</h6>
         <h7 class="card-subtitle">Tutor (2023-Present)</h7>
       </div>
-      <div class="col-sm-2 text-sm-right">
-        <span class="badge">
-          541
-        </span>
-      </div>
+      
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">
@@ -118,11 +101,7 @@ giscus_comments: false
         <h6 class="card-subtitle font-italic">Elective for BA Hons. Economics & Management, BA Hons. PPE </h6>
         <h7 class="card-subtitle">Tutor (2022, 2023)</h7>
       </div>
-      <div class="col-sm-2 text-sm-right">
-        <span class="badge">
-          541
-        </span>
-      </div>
+      
     </div>         
           </div>
         </div>
@@ -137,11 +116,7 @@ giscus_comments: false
         <h6 class="card-subtitle font-italic">Diploma in Financial Strategy </h6>
         <h7 class="card-subtitle">Tutor (2022, 2024)</h7>
       </div>
-      <div class="col-sm-2 text-sm-right">
-        <span class="badge">
-          541
-        </span>
-      </div>
+    
     </div>         
           </div>
         </div>
