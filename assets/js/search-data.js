@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "",
+          description: "Links to working papers will be uploaded in due course. Till then, please reach out out via e-mail and I will be happy to share research drafts.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
