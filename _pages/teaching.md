@@ -2,22 +2,23 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: I am a graduate TA for COMP 311 and was a UTA for COMP 311, 210, and 110. I am one of two awardees of the 2023 Diane Pozefsky Learning Assistant Award ($1000 prize).
+description: At Oxford, I have taught across Undergraduate, Masters, MBA and Diploma Programs. I am part of Stanford University's Bing Overseas Study Program at Oxford.
 nav: true
 nav_order: 5
-giscus_comments: true
+giscus_comments: false
 # toc:
 #   sidebar: true
 ---
 
-<h3 style="color: #4b9cd3;" id="unc"><a href="https://unc.edu">UNC</a></h3>
-<!-- COMP 541 (Digital Logic and Computer Design) -->
+<h3 style="color: #4b9cd3;" id="oxf"><a href="https://www.sbs.ox.ac.uk">University of Oxford</a></h3>
+<!-- Asset Pricing -->
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="comp311" class="card-title">Digital Logic and Computer Design</h5>
-        <h6 class="card-subtitle font-italic">Volunteer (F23, W22)</h6>
+        <h5 id="ap" class="card-title">Asset Pricing</h5>
+        <h6 class="card-subtitle font-italic">Core Course, Masters in Financial Economics</h6>
+        <h7 class="card-subtitle">2023, 2024</h7>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
@@ -29,7 +30,7 @@ giscus_comments: true
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            I roughly <strong>doubled</strong> the potential audience of COMP 541's final project simulator (speeds up build time from several minutes to seconds) by porting, along with a classmate, the original version (Windows-only) to Java (cross-platform). It is in-use in COMP 541 and maintained by me.
+            I was awarded the MFE Teaching Prize in 2023 and 2024 for scoring the highest feedback across all instructors.
           </div>
           <div class="col-sm-3">
             
