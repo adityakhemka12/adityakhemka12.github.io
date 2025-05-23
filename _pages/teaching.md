@@ -26,9 +26,9 @@ giscus_comments: false
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            I was awarded the MFE Teaching Prize in 2023 and 2024 for scoring the highest feedback across all instructors.
-            2023 Evaluation Score: 4.87/5.0 (N=30)
-            2024 Evaluation Score: 4.89/5.0 (N=27)
+            <p> I was awarded the MFE Teaching Prize in 2023 and 2024 for scoring the highest feedback across all instructors. </p> 
+            <p> 2023 Evaluation Score: 4.87/5.0 (N=30) </p> 
+            <p> 2024 Evaluation Score: 4.89/5.0 (N=27) </p> 
           </div>
           <div class="col-sm-3">
             
