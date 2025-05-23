@@ -27,8 +27,8 @@ giscus_comments: false
         <div class="row">
           <div class="col-sm-12">
             <p> I was awarded the MFE Teaching Prize in 2023 and 2024 for scoring the highest feedback across all instructors. </p> 
-            <p> [2023 Evaluation Score: 4.87/5.0 (N=30)](assets/pdf/AP MFE 2023.pdf) </p> 
-            <p> [2024 Evaluation Score: 4.89/5.0 (N=27)](assets/pdf/AP MFE 2024.pdf) </p> 
+            [2023 Evaluation Score: 4.87/5.0 (N=30)](assets/pdf/AP%20MFE%202023.pdf)  
+            [2024 Evaluation Score: 4.89/5.0 (N=27)](assets/pdf/AP%20MFE%202024.pdf)
           </div>
           <div class="col-sm-3">
             
@@ -83,9 +83,9 @@ giscus_comments: false
         <div class="row">
           <div class="col-sm-12">
             <p> 1-on-1 tutorial format. Conceptualized and delivered tutorials to Stanford undergraduate students. </p>
-            <p> 2023: Financial Markets in Theory and Practice ([Evaluation Score 4/4](assets/pdf/Stanford Sweta.pdf)) </p>
-            <p> 2024: Asset Pricing ([Evaluation Score 4/4](assets/pdf/Stanford Sureen.pdf)) </p>
-            <p> 2025: Entrepreneurial Finance </p>
+            2023: Financial Markets in Theory and Practice ([Evaluation Score 4/4](assets/pdf/Stanford%20Sweta.pdf))  
+            2024: Asset Pricing ([Evaluation Score 4/4](assets/pdf/Stanford%20Sureen.pdf))  
+            2025: Entrepreneurial Finance
           </div>
           <div class="col-sm-3">
             
