@@ -81,7 +81,7 @@ giscus_comments: false
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">
         <div class="row">
-          <div class="col-sm-9">
+          <div class="col-sm-12">
             <p> 1-on-1 tutorial format. Conceptualized and delivered tutorials to Stanford undergraduate students. </p>
             <p> 2023: Financial Markets in Theory and Practice (Evaluation Score 4/4) </p>
             <p> 2024: Asset Pricing (Evaluation Score 4/4) </p>
