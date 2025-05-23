@@ -18,7 +18,7 @@ giscus_comments: false
       <div class="col-sm-10">
         <h5 id="ap" class="card-title">Asset Pricing</h5>
         <h6 class="card-subtitle font-italic">Core Course, Masters in Financial Economics</h6>
-        <h7 class="card-subtitle">Teaching Assistant (2023, 2024)</h7>
+        <h7 class="card-subtitle">Class Teacher (2023, 2024)</h7>
       </div>
       
     </div>
