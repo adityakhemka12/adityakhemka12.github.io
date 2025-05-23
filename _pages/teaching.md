@@ -25,7 +25,7 @@ giscus_comments: false
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">
         <div class="row">
-          <div class="col-sm-9">
+          <div class="col-sm-12">
             <p> I was awarded the MFE Teaching Prize in 2023 and 2024 for scoring the highest feedback across all instructors. </p> 
             <p> 2023 Evaluation Score: 4.87/5.0 (N=30) </p> 
             <p> 2024 Evaluation Score: 4.89/5.0 (N=27) </p> 
