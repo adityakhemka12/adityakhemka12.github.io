@@ -1428,3 +1428,11 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+// Dark mode override for Bootstrap list groups
+[data-bs-theme="dark"] .list-group,
+[data-bs-theme="dark"] .list-group-flush,
+[data-bs-theme="dark"] .list-group-item {
+  background-color: var(--global-card-bg-color) !important;
+  color: var(--global-text-color) !important;
+}
