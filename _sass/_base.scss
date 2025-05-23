@@ -1429,10 +1429,15 @@ figure.cover {
   }
 }
 
-// Dark mode override for Bootstrap list groups
-[data-bs-theme="dark"] .list-group,
-[data-bs-theme="dark"] .list-group-flush,
-[data-bs-theme="dark"] .list-group-item {
+// List group theme support
+.list-group,
+.list-group-flush {
   background-color: var(--global-card-bg-color) !important;
-  color: var(--global-text-color) !important;
+}
+
+// List group item theme support
+.list-group-item {
+  background-color: inherit !important;
+  color: var(--global-text-color);
+  border-color: var(--global-divider-color);
 }
