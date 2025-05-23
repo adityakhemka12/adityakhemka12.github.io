@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "At Oxford, I have taught across Undergraduate, Masters, MBA and Diploma Programs. I am part of Stanford University&#39;s Bing Overseas Study Program at Oxford.",
+          description: "At Oxford, I have taught across Undergraduate, Masters, MBA and Diploma Programs. I am part of Stanford University&#39;s Bing Overseas Study Program at Oxford. Where available, evaluation scores and reports are linked.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
