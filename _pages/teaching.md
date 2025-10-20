@@ -18,7 +18,7 @@ giscus_comments: false
       <div class="col-sm-10">
         <h5 id="ap" class="card-title">Asset Pricing</h5>
         <h6 class="card-subtitle font-italic">Core Course, Masters in Financial Economics</h6>
-        <h7 class="card-subtitle">Class Teacher (2023, 2024)</h7>
+        <h7 class="card-subtitle">Class Teacher (2023, 2024, 2025)</h7>
       </div>
       
     </div>
@@ -39,6 +39,19 @@ giscus_comments: false
     </ul>
   </div>
 </div>
+
+<!-- FE1 -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="ap" class="card-title">Financial Economics 1</h5>
+        <h6 class="card-subtitle font-italic">Elective Course, M.Phil. in Economics </h6>
+        <h7 class="card-subtitle">Teaching Assistant (2025)</h7>
+      </div>
+    </div>         
+          </div>
+        </div>
 
 <!-- FCRM -->
 <div class="card mt-3">
