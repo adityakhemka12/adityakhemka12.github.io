@@ -30,6 +30,7 @@ giscus_comments: false
             <a href="/assets/pdf/AP%20MFE%202023.pdf">2023 Evaluation Score: 4.87/5.0 (N=30)</a><br>
             
             <a href="/assets/pdf/AP%20MFE%202024.pdf">2024 Evaluation Score: 4.89/5.0 (N=27)</a>
+            <a href="/assets/pdf/AP%20MFE%202025.pdf">2024 Evaluation Score: 4.87/5.0 (N=13)</a>
           </div>
           <div class="col-sm-3">
             
