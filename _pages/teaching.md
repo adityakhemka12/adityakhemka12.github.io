@@ -18,7 +18,7 @@ giscus_comments: false
       <div class="col-sm-10">
         <h5 id="ap" class="card-title">Asset Pricing</h5>
         <h6 class="card-subtitle font-italic">Core Course, Masters in Financial Economics</h6>
-        <h7 class="card-subtitle">Class Teacher (2023, 2024, 2025)</h7>
+        <h7 class="card-subtitle">Class Teacher (2023, 2024, 2025, 2026)</h7>
       </div>
       
     </div>
@@ -26,7 +26,7 @@ giscus_comments: false
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-12">
-            <p> I was awarded the MFE Teaching Prize in 2023 and 2024 for scoring the highest feedback across all instructors. </p> 
+            <p> I was awarded the MFE Teaching Prize in 2023, 2024 and 2025 for scoring the highest feedback across all instructors. </p> 
             <a href="/assets/pdf/AP%20MFE%202023.pdf">2023 Evaluation Score: 4.87/5.0 (N=30)</a><br>
             
             <a href="/assets/pdf/AP%20MFE%202024.pdf">2024 Evaluation Score: 4.89/5.0 (N=27)</a><br>
@@ -136,7 +136,7 @@ giscus_comments: false
       <div class="col-sm-10">
         <h5 id="ap" class="card-title">Financial Strategy Integrated Project</h5>
         <h6 class="card-subtitle font-italic">Diploma in Financial Strategy </h6>
-        <h7 class="card-subtitle">Tutor (2022, 2024)</h7>
+        <h7 class="card-subtitle">Tutor (2022, 2024, 2026)</h7>
       </div>
     
     </div>         
