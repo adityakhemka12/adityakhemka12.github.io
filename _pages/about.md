@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fifth-year PhD Candidate in Finance at Saïd Business School, University of Oxford. I work in macro-finance, and am interested in wealth inequality, climate change, market macro-structure, asset pricing, financial intermediation and regulation.
+I am a sixth-year PhD Candidate in Finance at Saïd Business School, University of Oxford. I work in macro-finance, and am interested in household finance, wealth inequality, climate change, market macro-structure, asset pricing, financial intermediation and regulation.
 
-I spent Summer 2025 as a PhD intern with the Macrofinancial Risks Division at the Bank of England. 
+I spent Summer 2025 as a PhD intern with the Macrofinancial Risks Division at the Bank of England. I will be spending Spring 2027 as a visiting researcher at Universität Zürich, hosted by Francisco Amaral. I am also affiliated with the Centre for Economic Transition Expertise (CETEx) at the London School of Economics.
 
-I received an MSc in Financial Economics from Oxford in 2019 and a BSc in Economics and Finance from Ashoka University, India in 2018. Previously, I worked in the Investment Banking Division at Goldman Sachs. 
+I received an MSc in Financial Economics from Oxford in 2019 and a BSc in Economics and Finance from Ashoka University, India in 2018. Previously, I worked in the Investment Banking Division (Equity Capital Markets) at Goldman Sachs. 
