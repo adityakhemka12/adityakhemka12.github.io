@@ -28,4 +28,4 @@ I am a sixth-year PhD Candidate in Finance at Saïd Business School, University 
 
 I spent Summer 2025 as a PhD intern with the Macrofinancial Risks Division at the Bank of England. I will be spending Spring 2027 as a visiting researcher at Universität Zürich, hosted by Francisco Amaral. I am also affiliated with the Centre for Economic Transition Expertise (CETEx) at the London School of Economics.
 
-I received an MSc in Financial Economics from Oxford in 2019 and a BSc in Economics and Finance from Ashoka University, India in 2018. Previously, I worked in the Investment Banking Division (Equity Capital Markets) at Goldman Sachs. 
+I received an MSc in Financial Economics from Oxford in 2019 and a BSc in Economics and Finance from Ashoka University, India in 2018. Previously, I worked in the Investment Banking Division (Equity Capital Markets) at Goldman Sachs.
