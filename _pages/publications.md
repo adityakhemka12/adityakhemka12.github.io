@@ -23,6 +23,7 @@ nav_order: 2
 
     <p>[JOB MARKET PAPER ABSTRACT]</p>
     <p><strong>Presentations:</strong> [PRESENTATIONS]</p>
+
   </section>
 
   <section class="research-paper">
@@ -61,6 +62,7 @@ nav_order: 2
     <p class="paper-links">
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5310388">SSRN</a>
     </p>
+
   </section>
 
   <section class="research-paper">
@@ -91,6 +93,7 @@ nav_order: 2
     <p class="paper-links">
       <a href="https://ssrn.com/abstract=6303041">SSRN</a>
     </p>
+
   </section>
 
   <section class="research-paper">
@@ -125,6 +128,7 @@ nav_order: 2
         PDF
       </a>
     </p>
+
   </section>
 
   <section class="research-paper">
