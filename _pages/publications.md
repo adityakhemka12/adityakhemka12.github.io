@@ -7,12 +7,11 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
 <div class="publications">
+  <h2>Working Papers</h2>
+  {% bibliography --group_by none --query @*[category=working_paper]* %}
 
-{% bibliography %}
-
+  <h2>Work in Progress</h2>
+  {% bibliography --group_by none --query @*[category=work_in_progress]* %}
 </div>
+
